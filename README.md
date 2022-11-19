@@ -9,7 +9,7 @@ I have created bank card and its services, there will be many companies’ produ
 This is my final FRT project. 
 # Github link: https://kamalesh50.github.io/FRT-project/
 
-# Azure link: https://salmon-smoke-0e424ad10.2.azurestaticapps.ne
+# Azure link: https://salmon-smoke-0e424ad10.2.azurestaticapps.net
 
 # Home page
 ![image](https://user-images.githubusercontent.com/114010528/202850060-0776e29d-e3c0-4768-b031-ca3e9c8c7434.png)
